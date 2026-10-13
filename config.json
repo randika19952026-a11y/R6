@@ -1,6 +1,6 @@
 {
   "active": true,
-  "locked": false,
+  "locked": true,
   "lock_reason": "",
   "overlay_message": "",
   "version": "1.0.0",
